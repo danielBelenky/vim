@@ -1,0 +1,3 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/home/dbelenky/src/ovirt-system-tests/upgrade-suite-to-experimental-from-4.0/test-scenarios-after-upgrade'
